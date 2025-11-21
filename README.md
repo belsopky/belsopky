@@ -1,8 +1,5 @@
-## Hi there 👋
-
-<!--
-**belsopky/belsopky** is a ✨ _special_ ✨ repositor# 💫 About Me:
-I'm currently working on:<br>- Focusing on projects that bridge *Network Security* and *Web Penetration Testing, applying my knowledge of **C++* and *Python* for scripting and security tool development.<br><br>I'm looking to collaborate with:<br>- Developers and teams interested in *Open-Source Cybersecurity* projects, especially in *Penetration Testing (PT)* and *Vulnerability Discovery*.<br><br>I'm looking for help with:<br>- Gaining deep insights into *Advanced Penetration Testing methodologies* and practical application of *Vulnerability Discovery* techniques.<br><br>I'm currently learning:<br>- Expanding my web foundation with *JavaScript, HTML, and CSS, alongside specialized training in **advanced cybersecurity concepts* and their relation to wave physics.<br><br>Ask me about:<br>- *Networking concepts, **Network Security basics, **Cybersecurity fundamentals, and getting started with **C++ or Python programming*.<br><br>Fun fact:<br>- I'm a highly self-motivated learner in the cybersecurity domain and I've been achieving quick and noticeable progress since I started my journey!<br>-
+# 💫 About Me:
+I'm currently working on:<br>- Focusing on projects that bridge Network Security and Web Penetration Testing, applying my knowledge of **C++ and Python for scripting and security tool development.<br><br>I'm looking to collaborate with:<br>- Developers and teams interested in Open-Source Cybersecurity projects, especially in Penetration Testing (PT) and Vulnerability Discovery.<br><br>I'm looking for help with:<br>- Gaining deep insights into Advanced Penetration Testing methodologies and practical application of Vulnerability Discovery techniques.<br><br>I'm currently learning:<br>- Expanding my web foundation with JavaScript, HTML, and CSS, alongside specialized training in **advanced cybersecurity concepts and their relation to wave physics.<br><br>Ask me about:<br>- Networking concepts, **Network Security basics, **Cybersecurity fundamentals, and getting started with **C++ or Python programming.<br><br>Fun fact:<br>- I'm a highly self-motivated learner in the cybersecurity domain and I've been achieving quick and noticeable progress since I started my journey!<br>-
 
 
 ## 🌐 Socials:
@@ -18,16 +15,4 @@ I'm currently working on:<br>- Focusing on projects that bridge *Network Securit
 ---
 [![](https://visitcount.itsvg.in/api?id=belsopky&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->y because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
