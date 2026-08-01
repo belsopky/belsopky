@@ -1,21 +1,468 @@
-# About Me:
-I'm currently working on:<br>- Focusing on projects that bridge Network Security and Web Penetration Testing, applying my knowledge of **C++ and Python for scripting and security tool development.<br><br>I'm looking to collaborate with:<br>- Developers and teams interested in Open-Source Cybersecurity projects, especially in Penetration Testing (PT) and Vulnerability Discovery.<br><br>I'm looking for help with:<br>- Gaining deep insights into Advanced Penetration Testing methodologies and practical application of Vulnerability Discovery techniques.<br><br>I'm currently learning:<br>- Expanding my web foundation with JavaScript, HTML, and CSS, alongside specialized training in **advanced cybersecurity concepts and their relation to wave physics.<br><br>Ask me about:<br>- Networking concepts, **Network Security basics, **Cybersecurity fundamentals, and getting started with **C++ or Python programming.<br><br>Fun fact:<br>- I'm a highly self-motivated learner in the cybersecurity domain and I've been achieving quick and noticeable progress since I started my journey!<br>-
 
-<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bassam-elsopky-814ba1331" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/bassam-elsopky-814ba1331?trk=profile-badge">Bassam Elsopky</a></div>
-              
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Bassam Elsopky) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1D1wnbs33L/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bassam_elsopky1?igsh=ZmZpem12YmI3ZTFq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bassam-elsopky-814ba1331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bassam.elsopky451@gmail.com) 
+<div align="center">
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# Bassam Elsopky
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=belsopky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=belsopky&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=belsopky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### HaQtor
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Security+Tool+Developer;Offensive+Security+%7C+Security+Engineering;Reconnaissance+Automation;Attack+Surface+Intelligence;Building+Practical+Open+Source+Security+Software" />
+
+<br>
+
+Cybersecurity Student • Faculty of Computers and Information • Mansoura University • Egypt
+
+Building practical security software focused on offensive security, reconnaissance automation, attack surface intelligence and security engineering.
+
+<br>
+
+<p>
+<a href="https://github.com/belsopky">
+<img src="https://img.shields.io/badge/GitHub-belsopky-181717?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://img.shields.io/badge/Linux-Daily-black?style=for-the-badge&logo=linux">
+
+<img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux">
+
+<img src="https://img.shields.io/badge/Open_Source-Contributor-3FB950?style=for-the-badge">
+
+<img src="https://komarev.com/ghpvc/?username=belsopky&style=for-the-badge&color=blue">
+
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=belsopky&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About
+
+My journey into cybersecurity started with networking and network security before gradually moving toward offensive security and penetration testing.
+
+Understanding how systems are designed has always been more interesting to me than simply learning how to exploit them. That perspective naturally led me toward building security software.
+
+Today I spend most of my time designing modular security tools that automate reconnaissance, improve attack surface visibility, simplify security workflows, and help security researchers collect better intelligence.
+
+Rather than creating projects to fill a GitHub profile, I focus on software that solves practical security problems with maintainability, documentation, and clean architecture in mind.
+
+---
+
+# Security Philosophy
+
+> Good security tooling should reduce manual work without hiding technical understanding.
+
+My projects are designed around a few core principles:
+
+- Practical over theoretical
+- Passive before intrusive whenever possible
+- Modular architecture instead of monolithic scripts
+- Maintainability over quick hacks
+- Automation that remains transparent
+- Documentation as part of engineering
+- Reusable components instead of duplicated logic
+
+---
+
+# Current Focus
+
+- Attack Surface Intelligence
+- Reconnaissance Automation
+- Offensive Security Tooling
+- Security Engineering
+- Vulnerability Research
+- Bug Bounty Methodology
+- Web Application Security
+- Open Source Security
+
+---
+
+# Research Interests
+
+- Passive Technology Fingerprinting
+- Infrastructure Analysis
+- Attack Surface Mapping
+- Asset Correlation
+- Web Security
+- Information Gathering Pipelines
+- Recon Automation
+- Security Architecture
+- Detection Logic
+- Modular Security Frameworks
+
+---
+
+# Featured Projects
+
+---
+
+## HaQtor Lens
+
+### Attack Surface Intelligence Platform
+
+A reconnaissance platform designed to organize and understand modern attack surfaces instead of producing flat lists of assets.
+
+Its objective is transforming reconnaissance data into structured intelligence.
+
+Core capabilities include:
+
+- Subdomain Correlation
+- Infrastructure Analysis
+- Relationship Discovery
+- Reconnaissance Automation
+- Asset Organization
+- Intelligence Layer
+- Security-Oriented Visualization
+
+Designed for scalable reconnaissance workflows where understanding relationships between assets matters as much as discovering them.
+
+---
+
+## TechFinger
+
+### Passive Technology Fingerprinting Engine
+
+A passive fingerprinting engine that identifies technologies without intrusive scanning.
+
+Instead of relying on active probing, TechFinger combines multiple passive evidence sources using heuristic analysis.
+
+Detection capabilities include:
+
+- Framework Detection
+- Backend Detection
+- CMS Detection
+- CDN Detection
+- WAF Detection
+- HTTP Header Analysis
+- Cookie Analysis
+- JavaScript Analysis
+- HTML Analysis
+- Server Fingerprinting
+
+The goal is accurate technology identification while minimizing interaction with the target.
+
+---
+
+## UploadLab
+
+### Docker-Based File Upload Security Lab
+
+A professional penetration testing laboratory built for learning and practicing file upload vulnerabilities.
+
+The environment provides realistic scenarios that mirror common implementation mistakes found in production applications.
+
+Features include:
+
+- Docker Deployment
+- Multiple Upload Challenges
+- Practical Penetration Testing
+- Secure Coding Awareness
+- CTF-Oriented Exercises
+- Progressive Difficulty
+- Educational Documentation
+
+The project is intended for offensive security education, hands-on experimentation, and secure development awareness.
+
+---
+
+## HaQtor Bug Bounty Framework
+
+### Modular Security Automation Framework
+
+A modular framework focused on automating repetitive stages of modern security assessments.
+
+Core modules include:
+
+- Reconnaissance
+- Enumeration
+- Information Gathering
+- Attack Surface Mapping
+- Reporting Pipelines
+
+Engineering Principles:
+
+- Clean Architecture
+- Modular Components
+- Pipeline-Based Execution
+- Separation of Concerns
+- Extensible Design
+
+Built for maintainability rather than one-off automation scripts.
+
+---
+
+## SubCorrelate
+
+### Intelligence Layer for Reconnaissance
+
+SubCorrelate sits between traditional subdomain enumeration and HTTP probing.
+
+Instead of treating discovered subdomains as isolated assets, it analyzes relationships and correlations before expensive probing begins.
+
+Benefits include:
+
+- Better prioritization
+- Reduced noise
+- Improved asset grouping
+- Higher quality reconnaissance
+- More meaningful attack surface analysis
+
+This approach allows reconnaissance workflows to become more intelligent rather than simply larger.
+
+---
+
+# Security Domains
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Offensive Security
+
+- Web Security
+- Reconnaissance
+- Enumeration
+- Bug Bounty
+- Attack Surface Mapping
+
+</td>
+
+<td width="50%">
+
+### Security Engineering
+
+- Security Tool Development
+- Automation
+- Pipeline Design
+- Modular Frameworks
+- Clean Architecture
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Technical Expertise
+
+## Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,js,php,mysql"/>
+
+</p>
+
+---
+
+## Operating Systems
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+Daily environment:
+
+- Linux
+- Kali Linux
+
+---
+
+## Development Environment
+
+- VS Code
+- Git
+- GitHub
+- Docker
+- Bash
+- Python CLI Applications
+
+---
+
+## Tooling
+
+Areas I regularly work with include:
+
+- Python Automation
+- CLI Development
+- Security Research
+- HTTP Analysis
+- Passive Fingerprinting
+- Recon Pipelines
+- Web Security Testing
+- Network Analysis
+- Linux Tooling
+
+---
+
+# Development Workflow
+
+```
+
+Research
+
+```
+  │
+
+  ▼
+```
+
+Architecture
+
+```
+  │
+
+  ▼
+```
+
+Prototype
+
+```
+  │
+
+  ▼
+```
+
+Refactoring
+
+```
+  │
+
+  ▼
+```
+
+Documentation
+
+```
+  │
+
+  ▼
+```
+
+Testing
+
+```
+  │
+
+  ▼
+```
+
+Release
+
+```
+
+---
+
+# Architecture Principles
+
+Projects are generally designed around:
+
+- Modular Components
+- Clean Architecture
+- Separation of Concerns
+- Extensible Pipelines
+- Maintainable Codebases
+- Documentation-First Mindset
+- Production-Oriented Structure
+
+---
+
+# Open Source Philosophy
+
+I view open source as an opportunity to build practical software that other security practitioners can understand, extend, and improve.
+
+Every repository should remain readable, maintainable, documented, and useful beyond its original purpose.
+
+---
+
+# Currently Building
+
+- Advanced reconnaissance platforms
+- Attack surface intelligence tooling
+- Security automation frameworks
+- Passive fingerprinting engines
+- Practical offensive security labs
+- Modular bug bounty tooling
+
+---
+
+# Roadmap
+
+- Expand reconnaissance intelligence capabilities
+- Improve modular automation frameworks
+- Develop additional security training labs
+- Publish more production-quality security tools
+- Continue contributing practical open source projects
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=belsopky&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belsopky&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=belsopky&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=belsopky&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Profile Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=belsopky&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://github.com/belsopky">
+<img src="https://img.shields.io/badge/GitHub-belsopky-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building Practical Security Software
+
+Designing tools that improve how security professionals understand, analyze and automate modern attack surfaces.
+
+</div>
+```
