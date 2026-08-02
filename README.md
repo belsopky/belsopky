@@ -175,14 +175,11 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 
 </div>
 
+
 <br>
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=belsopky&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F85149&icon_color=39FF14&text_color=c9d1d9&ring_color=F85149"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belsopky&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F85149&text_color=c9d1d9&langs_count=8"/>
-
-<br>
 
 <img src="https://streak-stats.demolab.com/?user=belsopky&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=F85149&ring=39FF14&fire=F85149&currStreakLabel=39FF14"/>
 
@@ -192,16 +189,19 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=belsopky&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
 <br>
-000
+
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/belsopky/belsopky/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
-000
+
+
+
 <br>
 
 <div align="center">
