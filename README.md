@@ -113,7 +113,7 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 
 <div align="center">
 
-<img src="https://catreloaded.org/icon.png" width="150"/>
+<img src="https://catreloaded.org/icon.png" width="100"/>
 
 **CAT Reloaded Member · CTF Player · Community Contributor**
 
@@ -164,6 +164,8 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 ---
 </div>
 
+</div>
+
 <br>
 
 <div align="center">
@@ -182,7 +184,7 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=belsopky&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=F85149&ring=39FF14&fire=F85149&currStreakLabel=39FF14"/>
+<img src="https://streak-stats.demolab.com/?user=belsopky&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=F85149&ring=39FF14&fire=F85149&currStreakLabel=39FF14"/>
 
 <br>
 
@@ -195,18 +197,17 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 </div>
 
 <br>
-
+000
 <div align="center">
-<img src="https://raw.githubusercontent.com/belsopky/belsopky/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
-<sub>requires a one-time GitHub Action setup — see note below</sub>
+  <img src="https://raw.githubusercontent.com/belsopky/belsopky/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
-
+000
 <br>
 
 <div align="center">
 
 ---
-</div>        
+</div>
 
 <br>
 
