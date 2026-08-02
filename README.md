@@ -69,10 +69,9 @@
 
 ---
 
-
 <div align="center">
 
-<img src="https://catreloaded.org/icon.png" width="70"/>
+<img src="https://catreloaded.org/icon.png" width="100"/>
 
 **CAT Reloaded Member · CTF Player · Community Contributor**
 
@@ -81,57 +80,40 @@
 <br>
 
 ---
+<div align="center" >
 
-<br>
+  
+000<div align="center">
 
-<table align="center" width="100%">
-<tr>
-<td width="25%" valign="top">
-<div align="center">
-<sub><strong>OFFENSIVE TOOLKIT</strong></sub>
-<br><br>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Nmap-4D8AC9?style=flat-square&logo=nmap&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=8CD534"/>
-</div>
-</td>
-<td width="25%" valign="top">
-<div align="center">
-<sub><strong>OFFENSIVE RANGE</strong></sub>
-<br><br>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=FF4500"/><br>
-<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/PortSwigger-FF6633?style=flat-square&logo=portswigger&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/PicoCTF-00274D?style=flat-square&logo=picoctf&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/OverTheWire-2C3E50?style=flat-square&logo=shieldsdotio&logoColor=white"/>
-</div>
-</td>
-<td width="25%" valign="top">
-<div align="center">
-<sub><strong>DEFENSIVE RANGE</strong></sub>
-<br><br>
-<img src="https://img.shields.io/badge/CyberDefenders-0B3D91?style=flat-square&logo=shieldsdotio&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Blue%20Team%20Labs-1E3A5F?style=flat-square&logo=shieldsdotio&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/LetsDefend-0057FF?style=flat-square&logo=shieldsdotio&logoColor=white"/>
-</div>
-</td>
-<td width="25%" valign="top">
-<div align="center">
-<sub><strong>BOUNTY PLATFORMS</strong></sub>
-<br><br>
-<img src="https://img.shields.io/badge/HackerOne-000000?style=flat-square&logo=hackerone&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Intigriti-1F2937?style=flat-square&logo=intigriti&logoColor=45E1E5"/><br>
-<img src="https://img.shields.io/badge/YesWeHack-000000?style=flat-square&logoColor=E5FF00"/>
-</div>
-</td>
-</tr>
-</table>
+<h2>OFFENSIVE TOOLKIT</h2>
 
-<br>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4D8AC9?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=8CD534"/>
 
-<div align="center">
+<br><br>
+
+<h2>OFFENSIVE RANGE</h2>
+
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF4500"/>
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+<img src="https://img.shields.io/badge/PicoCTF-00274D?style=for-the-badge&logo=picoctf&logoColor=white"/>
+<img src="https://img.shields.io/badge/OverTheWire-2C3E50?style=for-the-badge&logo=shieldsdotio&logoColor=white"/>
+
+<br><br>
+
+<h2>BUG BOUNTY</h2>
+
+<img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intigriti-1F2937?style=for-the-badge&logo=intigriti&logoColor=45E1E5"/>
+<img src="https://img.shields.io/badge/YesWeHack-000000?style=for-the-badge&logoColor=E5FF00"/>
+
+</div>
+
+000
 
 ---
 </div>
