@@ -91,15 +91,14 @@
   
 <div align="center">
 
-<h2>OFFENSIVE TOOLKIT</h2>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4D8AC9?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=8CD534"/>
+<h2>BUG BOUNTY</h2>
 
+<img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intigriti-1F2937?style=for-the-badge&logo=intigriti&logoColor=45E1E5"/>
+<img src="https://img.shields.io/badge/YesWeHack-000000?style=for-the-badge&logoColor=E5FF00"/>
 <br><br>
+
 
 <h2>OFFENSIVE RANGE</h2>
 
@@ -111,11 +110,16 @@
 
 <br><br>
 
-<h2>BUG BOUNTY</h2>
+<h2>OFFENSIVE TOOLKIT</h2>
 
-<img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intigriti-1F2937?style=for-the-badge&logo=intigriti&logoColor=45E1E5"/>
-<img src="https://img.shields.io/badge/YesWeHack-000000?style=for-the-badge&logoColor=E5FF00"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4D8AC9?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=8CD534"/>
+
+<br><br>
+
 
 </div>
 
