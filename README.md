@@ -113,7 +113,7 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 
 <div align="center">
 
-<img src="https://catreloaded.org/icon.png" width="100"/>
+<img src="https://catreloaded.org/icon.png" width="150"/>
 
 **CAT Reloaded Member · CTF Player · Community Contributor**
 
@@ -206,7 +206,7 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 <div align="center">
 
 ---
-</div>
+</div>        
 
 <br>
 
