@@ -8,7 +8,7 @@
 
 <br>
 
-<sub><strong>BASSAM ELSOPKY</strong> · CYBERSECURITY STUDENT, MANSOURA UNIVERSITY · EGYPT</sub>
+<sub><strong>**BASSAM ELSOPKY**</strong> · **CYBERSECURITY STUDENT, MANSOURA UNIVERSITY · EGYPT**</sub>
 
 <br><br>
 
