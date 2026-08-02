@@ -50,22 +50,28 @@
 
 
 
-
+<div align="center">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,bash,html,css,js,php,mysql,docker,git,github,linux,kali,vscode,nginx,cloudflare&theme=dark" />
-
-<br><br>
-
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,bash,html,css,js,php,mysql&theme=dark" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,kali,vscode,nginx,cloudflare&theme=dark" />
+
+</div>
+<br><br>
 
 <img src="https://img.shields.io/badge/Assembly%20x86%2Fx64-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-</div> 
+</div>
+
+
 
 ---
 
@@ -83,7 +89,7 @@
 <div align="center" >
 
   
-000<div align="center">
+<div align="center">
 
 <h2>OFFENSIVE TOOLKIT</h2>
 
@@ -113,7 +119,7 @@
 
 </div>
 
-000
+
 
 ---
 </div>
