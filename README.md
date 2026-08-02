@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,35:161b22,65:1a1a2e,100:238636&text=HaQtor&fontColor=ffffff&fontSize=90&fontAlignY=38&desc=THINK.%20HACK.%20SECURE.&descAlignY=58&descAlign=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,20:0d1117,40:161b22,60:1b2330,80:1d5a4f,100:2ea043&text=HaQtor&fontColor=ffffff&fontSize=90&fontAlignY=38&desc=THINK.%20HACK.%20SECURE.&descAlignY=58&descAlign=50&animation=fadeIn"/>
+  
 
 <br>
 
