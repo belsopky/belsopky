@@ -45,6 +45,13 @@
 
 </div>
 
+
+
+
+
+
+
+
 <br>
 
 <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,bash,html,css,js,php,mysql,docker,git,github,linux,kali,vscode,nginx,cloudflare&theme=dark" />
@@ -58,7 +65,22 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
+</div> 
+
+---
+
+
+<div align="center">
+
+<img src="https://catreloaded.org/icon.png" width="70"/>
+
+**CAT Reloaded Member · CTF Player · Community Contributor**
+
 </div>
+
+<br>
+
+---
 
 <br>
 
