@@ -1,19 +1,29 @@
 000
 
+<
 <br>
 
 <div align="center">
 
-<a href="https://urlshort.at/haqtor-space" target="_blank">
+<a href="https://guns.lol/elsopky" target="_blank">
   <img
-    src="https://img.shields.io/badge/%E2%86%97%20HAQTOR-IDENTITY%20NODE-F85149?style=for-the-badge&labelColor=0D1117"
-    alt="HaQtor Identity Node"
-  />
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Furlshort.at%2Fapi%2Fpublic%2Fsummary%2Fhaqtor-space&query=%24.clicks&label=CLICKS&style=for-the-badge&color=F85149&labelColor=0D1117&cacheSeconds=300"
-    alt="Recorded link clicks"
+    src="https://img.shields.io/badge/◈-BEYOND%20THE%20TERMINAL-0D1117?style=for-the-badge&labelColor=F85149&color=0D1117"
+    alt="HaQtor — Beyond the Terminal"
   />
 </a>
+
+<br>
+
+<a href="https://guns.lol/elsopky" target="_blank">
+  <img
+    src="https://hits.sh/guns.lol/elsopky.svg?label=SIGNALS%20RECEIVED&color=F85149&labelColor=0D1117&style=flat-square"
+    alt="Visit counter"
+  />
+</a>
+
+<br>
+
+<sub>ANOTHER LAYER OF THE SAME IDENTITY.</sub>
 
 </div>
 
