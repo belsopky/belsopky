@@ -1,3 +1,26 @@
+000
+
+<br>
+
+<div align="center">
+
+<a href="https://urlshort.at/haqtor-space" target="_blank">
+  <img
+    src="https://img.shields.io/badge/%E2%86%97%20HAQTOR-IDENTITY%20NODE-F85149?style=for-the-badge&labelColor=0D1117"
+    alt="HaQtor Identity Node"
+  />
+  <img
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Furlshort.at%2Fapi%2Fpublic%2Fsummary%2Fhaqtor-space&query=%24.clicks&label=CLICKS&style=for-the-badge&color=F85149&labelColor=0D1117&cacheSeconds=300"
+    alt="Recorded link clicks"
+  />
+</a>
+
+</div>
+
+<br>
+
+  0000
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,20:0d1117,40:161b22,60:1b2330,80:1d5a4f,100:2ea043&text=HaQtor&fontColor=ffffff&fontSize=90&fontAlignY=38&desc=THINK.%20HACK.%20SECURE.&descAlignY=58&descAlign=50&animation=fadeIn"/>
