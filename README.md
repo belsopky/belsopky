@@ -1,35 +1,8 @@
 000
 
-<
-<br>
 
-<div align="center">
 
-<a href="https://guns.lol/elsopky" target="_blank">
-  <img
-    src="https://img.shields.io/badge/◈-BEYOND%20THE%20TERMINAL-0D1117?style=for-the-badge&labelColor=F85149&color=0D1117"
-    alt="HaQtor — Beyond the Terminal"
-  />
-</a>
-
-<br>
-
-<a href="https://guns.lol/elsopky" target="_blank">
-  <img
-    src="https://hits.sh/guns.lol/elsopky.svg?label=SIGNALS%20RECEIVED&color=F85149&labelColor=0D1117&style=flat-square"
-    alt="Visit counter"
-  />
-</a>
-
-<br>
-
-<sub>ANOTHER LAYER OF THE SAME IDENTITY.</sub>
-
-</div>
-
-<br>
-
-  0000
+000
 
 <div align="center">
 
