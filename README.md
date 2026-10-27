@@ -252,14 +252,7 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 <a href="https://guns.lol/elsopky" target="_blank">
 <img src="https://img.shields.io/badge/INITIATE%20AUTHENTICATION-0D1117?style=for-the-badge&logo=protonvpn&logoColor=F85149&labelColor=0D1117" alt="Initiate authentication"/>
 </a>
-
-
-
 <br>
-
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:238636,50:161b22,100:0d1117&section=footer&text=THINK.%20HACK.%20SECURE.&fontColor=ffffff&fontSize=22&fontAlignY=75&animation=fadeIn"/>
 
 </div>
