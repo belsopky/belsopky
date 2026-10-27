@@ -223,7 +223,6 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 <a href="https://hub.docker.com/r/haqtor"><img src="https://img.shields.io/badge/Docker%20Hub-HaQtor-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://www.facebook.com/share/1SU2EGxbq2/"><img src="https://img.shields.io/badge/Facebook-Bassam%20Elsopky-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-000
 
 <br>
 
@@ -249,25 +248,16 @@ I don't just study vulnerabilities — I hunt them, document them, and teach oth
 
 <code>Unknown identity detected.</code>
 
-<br>
-
-<sub>Authenticate to discover what's beyond this profile.</sub>
-
-<br><br>
 
 <a href="https://guns.lol/elsopky" target="_blank">
 <img src="https://img.shields.io/badge/INITIATE%20AUTHENTICATION-0D1117?style=for-the-badge&logo=protonvpn&logoColor=F85149&labelColor=0D1117" alt="Initiate authentication"/>
 </a>
 
-<br><br>
 
-<sub>HAQTOR SYSTEMS // ACCESS POINT 001</sub>
-
-</div>
 
 <br>
 
-000
+
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:238636,50:161b22,100:0d1117&section=footer&text=THINK.%20HACK.%20SECURE.&fontColor=ffffff&fontSize=22&fontAlignY=75&animation=fadeIn"/>
