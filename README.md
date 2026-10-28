@@ -48,11 +48,11 @@
 
 <div align="center">
 
-### `Bassam Elsopky` — known across the security community as **HaQtor**
+### `Bassam Elsopky` known across the security community as **HaQtor**
 
-Cybersecurity student at **Mansoura University**, Egypt — living at the intersection of offensive security, systems thinking, and building things that either break other things or protect them.
+Cybersecurity student at **Mansoura University**, Egypt... living at the intersection of offensive security, systems thinking, and building things that either break other things or protect them.
 
-I don't just study vulnerabilities — I hunt them, document them, and teach others to find them too. My work spans web application penetration testing, bug bounty hunting, and building the training ground for the next generation of Arabic-speaking hackers.
+I don't just study vulnerabilities... I hunt them, document them, and teach others to find them too. My work spans web application penetration testing, bug bounty hunting, and building the training ground for the next generation of Arabic-speaking hackers.
 
 **HaQtor isn't a username. It's a standard.**
 
