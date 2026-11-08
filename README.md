@@ -6,6 +6,7 @@
 <br>
 
 
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2800&pause=900&color=F85149&center=true&vCenter=true&width=900&height=45&lines=HaQtor+%7C+Bassam+Elsopky;Offensive+Security+Researcher;Bug+Bounty+Hunter+%7C+Web+App+Pentester;Breaking+Systems+to+Understand+Them"/>
 
 <br>
