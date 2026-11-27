@@ -71,9 +71,6 @@ I don't just study vulnerabilities... I hunt them, document them, and teach othe
 
 
 
-
-
-
 <br>
 
 <div align="center">
